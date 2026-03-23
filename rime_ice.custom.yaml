@@ -1,0 +1,7 @@
+patch:
+  "translator/dictionary": rime_ice
+  "translator/enable_user_dict": true
+  "translator/preedit_format": []
+  "translator/comment_format": []
+  "translator/spelling_hints": 0      # 关闭候选词拼音提示
+  "translator/always_show_comments": false  # 关闭一直显示注释

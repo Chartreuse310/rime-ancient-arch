@@ -1,0 +1,18 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: ancient_arch
+version: "2026-03-23"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 基础测试词条（古建筑）
+斗栱	dou gong	1000
+歇山顶	xie shan ding	900
+重檐歇山顶	chong yan xie shan ding	950
+抬梁式	tai liang shi	900
+穿斗式	chuan dou shi	900
+硬山顶	ying shan ding	850
+悬山顶	xuan shan ding	850
