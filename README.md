@@ -1,4 +1,4 @@
-# 中国古建筑词库 (Rime Ancient Architecture Dictionary)
+# 中国古建筑术语词库 (Rime Ancient Architecture Dictionary)
 
 这是一个为 [Rime 输入法](https://github.com/rime/squirrel) 和 [雾凇拼音 (Rime-ice)](https://github.com/iDvel/rime-ice) 配置的中国古建筑术语词库。旨在解决研究《营造法式》《工程做法》等文献时查找词汇困难的问题。
 
