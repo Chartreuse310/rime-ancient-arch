@@ -8,11 +8,212 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 
-# 基础测试词条（古建筑）
-斗栱	dou gong	1000
-歇山顶	xie shan ding	900
-重檐歇山顶	chong yan xie shan ding	950
-抬梁式	tai liang shi	900
-穿斗式	chuan dou shi	900
-硬山顶	ying shan ding	850
-悬山顶	xuan shan ding	850
+#
+# 中国古建筑术语
+# 参考：王贵祥《唐宋古建筑辞解》
+#
+
+## 中国古代建筑名称一般
+
+### 宫阙楼台
+宫	gong	800
+阙	que	800
+堂	tang	800
+殿	dian	800
+楼	lou	800
+橹	lu	800
+台	tai	800
+阁	ge	800
+
+### 馆驿寺观
+馆	guan	800
+邸驿	di yi	800
+观	guan	800
+寺	si	800
+
+### 府院亭榭
+府	fu	800
+庭	ting	800
+院	yuan	800
+亭	ting	800
+榭	xie	800
+
+### 厅庐轩塔
+厅	ting	800
+斋	zhai	800
+庐	lu	800
+轩	xuan	800
+塔	ta	800
+
+### 宅室库藏
+宅	zhai	800
+宅舍	zhai she	800
+园宅	yuan zhai	800
+宅第	zhai di	800
+邸宅	di zhai	800
+室	shi	800
+库藏	ku cang	800
+
+### 城邑市坊
+都邑	du yi	800
+都鄙	du bi	800
+城郭	cheng guo	800
+子城	zi cheng	800
+罗城	luo cheng	800
+市	shi	800
+坊	fang	800
+里	li	800
+里坊	li fang	800
+门	men	800
+墙	qiang	800
+垣	yuan	800
+墉	yong	800
+
+### 苑囿园池
+苑囿	yuan you	800
+园圃	yuan pu	800
+池沼	chi zhao	800
+
+### 桥陛罘罳
+桥梁	qiao liang	800
+丹墀	dan chi	800
+丹陛	dan bi	800
+罘罳	fu si	800
+浮思	fu si	800
+
+## 壕寨制度
+取正	qu zheng	800
+定平	ding ping	800
+真尺	zhen chi	800
+水平	shui ping	800
+望筒	wang tong	800
+水池景表	shui chi jing biao	800
+池子	chi zi	800
+水浮子	shui fu zi	800
+景表版	jing biao ban	800
+立基	li ji	800
+立基之制	li ji zhi zhi	800
+筑基	zhu ji	800
+筑基之制	zhu ji zhi zhi	800
+
+### 筑城之制
+地基	di ji	800
+基础	ji chu	800
+永定柱	yong ding zhu	800
+夜叉木	ye cha mu	800
+纴木	ren mu	800
+膊椽	bo chuan	800
+膊版	bo ban	800
+草葽	cao yao	800
+橛子	jue zi	800
+扭草葽	niu cao yao	800
+斫橛子	zhuo jue zi	800
+刬削城壁	chan xue cheng bi	800
+筑城功限	zhu cheng gong xian	800
+女头墙	nv tou qiang	800
+护崄墙	hu xian qiang	800
+
+### 筑墙之制
+筑墙之制	zhu qiang zhi zhi	800
+垒墙	lei qiang	800
+筑墙	zhu qiang	800
+露墙	lu qiang	800
+抽纴墙	chou ren qiang	800
+
+## 石作制度
+石作	shi zuo	800
+
+### 造作次序
+造石作次序	zao shi zuo ci xu	800
+雕镌制度	diao juan zhi du	800
+剔地起突	ti di qi tu	800
+压地隐起华	ya di yin qi hua	800
+减地平钑	jian di ping sa	800
+素平	su ping	800
+
+### 华文制度
+华文	hua wen	800
+通用华文	tong yong hua wen	800
+海石榴华	hai shi liu hua	800
+宝相华	bao xiang hua	800
+牡丹华	mu dan hua	800
+蕙草	hui cao	800
+云文	yun wen	800
+水浪	shui lang	800
+宝山	bao shan	800
+宝阶	bao jie	800
+莲华	lian hua	800
+铺地莲华	pu di lian hua	800
+仰覆莲华	yang fu lian hua	800
+宝装莲华	bao zhuang lian hua	800
+化生	hua sheng	800
+
+### 柱础
+柱础	zhu chu	800
+造柱础之制	zao zhu chu zhi zhi	800
+
+### 殿阶基
+殿阶基	dian jie ji	800
+殿阶基之制	dian jie ji zhi zhi	800
+角石	jiao shi	800
+角柱	jiao zhu	800
+角兽石	jiao shou shi	800
+压阑石	ya lan shi	800
+地面石	di mian shi	800
+土衬石	tu chen shi	800
+殿阶螭首	dian jie chi shou	800
+殿内斗八	dian nei dou ba	800
+
+### 阶级
+踏道	ta dao	800
+造踏道之制	zao ta dao zhi zhi	800
+副子	fu zi	800
+象眼	xiang yan	800
+
+### 钩阑
+重台钩阑	chong tai gou lan	800
+单钩阑	dan gou lan	800
+漫道	man dao	800
+望柱	wang zhu	800
+寻仗	xun zhang	800
+云栱	yun gong	800
+瘿项	ying xiang	800
+属柱	shu zhu	800
+盆唇	pen chun	800
+大华版	da hua ban	800
+束腰	shu yao	800
+小华版	xiao hua ban	800
+华盆	hua pen	800
+地霞	di xia	800
+地栿	di fu	800
+螭子石	chi zi shi	800
+撮顶	cuo ding	800
+万字版	wan zi ban	800
+华版万字造	hua ban wan zi zao	800
+华版钩片造	hua ban gou pian zao	800
+
+### 其他
+门砧限	men zhen xian	800
+铁桶子鹅台	tie tong zi e tai	800
+铁鹅台石砧	tie e tai shi zhen	800
+阶断砌	jie duan qi	800
+卧柣	wo zhi	800
+立柣	li zhi	800
+曲柣	qu zhi	800
+止扉石	zhi fei shi	800
+城门心将军石	cheng men xin jiang jun shi	800
+地栿	di fu	800
+城门石地栿	cheng men shi di fu	800
+流杯渠	liu bei qu	800
+剜凿流杯	wan zao liu bei	800
+垒凿流杯	lei zao liu bei	800
+坛	tan	800
+卷輂水窗	juan ju shui chuang	800
+水槽子	shui cao zi	800
+马台	ma tai	800
+井口石	jing kou shi	800
+井盖子	jing gai zi	800
+山棚鋜脚石	shan peng zhuo jiao shi	800
+幡竿颊	fan gan jia	800
+赑屃鳌座碑	bi xi ao zuo bei	800
+笏头碣	hu tou jie	800
