@@ -3,7 +3,7 @@
 
 ---
 name: ancient_arch
-version: "2026-03-23"
+version: "2026-03-24"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -81,7 +81,9 @@ use_preset_vocabulary: false
 罘罳	fu si	800
 浮思	fu si	800
 
-## 壕寨制度
+## 台基
+
+### 壕寨制度
 取正	qu zheng	800
 定平	ding ping	800
 真尺	zhen chi	800
@@ -96,7 +98,7 @@ use_preset_vocabulary: false
 筑基	zhu ji	800
 筑基之制	zhu ji zhi zhi	800
 
-### 筑城之制
+#### 筑城之制
 地基	di ji	800
 基础	ji chu	800
 永定柱	yong ding zhu	800
@@ -113,17 +115,17 @@ use_preset_vocabulary: false
 女头墙	nv tou qiang	800
 护崄墙	hu xian qiang	800
 
-### 筑墙之制
+#### 筑墙之制
 筑墙之制	zhu qiang zhi zhi	800
 垒墙	lei qiang	800
 筑墙	zhu qiang	800
 露墙	lu qiang	800
 抽纴墙	chou ren qiang	800
 
-## 石作制度
+### 石作制度
 石作	shi zuo	800
 
-### 造作次序
+#### 造作次序
 造石作次序	zao shi zuo ci xu	800
 雕镌制度	diao juan zhi du	800
 剔地起突	ti di qi tu	800
@@ -131,7 +133,7 @@ use_preset_vocabulary: false
 减地平钑	jian di ping sa	800
 素平	su ping	800
 
-### 华文制度
+#### 华文制度
 华文	hua wen	800
 通用华文	tong yong hua wen	800
 海石榴华	hai shi liu hua	800
@@ -148,11 +150,11 @@ use_preset_vocabulary: false
 宝装莲华	bao zhuang lian hua	800
 化生	hua sheng	800
 
-### 柱础
+#### 柱础
 柱础	zhu chu	800
 造柱础之制	zao zhu chu zhi zhi	800
 
-### 殿阶基
+#### 殿阶基
 殿阶基	dian jie ji	800
 殿阶基之制	dian jie ji zhi zhi	800
 角石	jiao shi	800
@@ -164,13 +166,13 @@ use_preset_vocabulary: false
 殿阶螭首	dian jie chi shou	800
 殿内斗八	dian nei dou ba	800
 
-### 阶级
+#### 阶级
 踏道	ta dao	800
 造踏道之制	zao ta dao zhi zhi	800
 副子	fu zi	800
 象眼	xiang yan	800
 
-### 钩阑
+#### 钩阑
 重台钩阑	chong tai gou lan	800
 单钩阑	dan gou lan	800
 漫道	man dao	800
@@ -192,7 +194,7 @@ use_preset_vocabulary: false
 华版万字造	hua ban wan zi zao	800
 华版钩片造	hua ban gou pian zao	800
 
-### 其他
+#### 其他
 门砧限	men zhen xian	800
 铁桶子鹅台	tie tong zi e tai	800
 铁鹅台石砧	tie e tai shi zhen	800
@@ -217,3 +219,482 @@ use_preset_vocabulary: false
 幡竿颊	fan gan jia	800
 赑屃鳌座碑	bi xi ao zuo bei	800
 笏头碣	hu tou jie	800
+
+### 砖作制度
+用砖	yong zhuan	800
+垒阶基	lei jie ji	800
+铺地面	pu di mian	800
+铺地	pu di	800
+墙下隔减	qiang xia ge jian	800
+踏道	ta dao	800
+慢道	man dao	800
+须弥座	xu mi zuo	800
+砖墙	zhuan qiang	800
+露道	lu dao	800
+城壁水道	cheng bi shui dao	800
+卷輂河渠口	juan ju he qu kou	800
+接甑口	jie zeng kou	800
+马台	ma tai	800
+马槽	ma cao	800
+井	jing	800
+
+### 泥作制度
+垒墙	lei qiang	800
+用泥	yong ni	800
+画璧	hua bi	800
+立灶	li zao	800
+转烟	zhuan yan	800
+直拔	zhi ba	800
+釜镬灶	fu huo zao	800
+茶炉	cha lu	800
+垒射垛	lei she duo	800
+
+## 屋架
+
+### 大木作制度一般
+
+#### 大木结构的基本类型
+殿阁	dian ge	800
+殿堂	dian tang	800
+厅堂	ting tang	800
+余屋	yu wu	800
+平面	ping mian	800
+剖面	pou mian	800
+槽	cao	800
+缝与心	feng yu xin	800
+
+#### 殿阁地盘分槽图
+金箱斗底槽	jin xiang dou di cao	800
+身内分心斗底槽	shen nei fen xin dou di cao	800
+身内双槽	shen nei shuang cao	800
+身内单槽	shen nei dan cao	800
+附阶周匝	fu jie zhou za	800
+草架侧样	cao jia ce yang	800
+
+#### 间缝内用梁柱图
+十架椽	shi jia chuan	800
+八架椽	ba jia chuan	800
+六架椽	liu jia chuan	800
+四架椽	si jia chuan	800
+椽间缝	chuan jian feng	800
+侧样	ce yang	800
+三椽栿	san chuan fu	800
+乳栿	ru fu	800
+劄牵	zha qian	800
+椽	chuan	800
+栿	fu	800
+厅堂等十架椽间缝内用梁柱侧样	ting tang deng shi jia chuan jian feng nei yong liang zhu ce yang	800
+十架椽屋分心用三柱	shi jia chuan wu fen xin yong san zhu	800
+十架椽屋前后三椽栿用四柱	shi jia chuan wu qian hou san chuan fu yong si zhu	800
+十架椽屋分心前后乳栿用五柱	shi jia chuan wu fen xin qian hou ru fu yong wu zhu	800
+十架椽屋前后并乳栿用六柱	shi jia chuan wu qian hou bing ru fu yong liu zhu	800
+十架椽屋前后各劄牵乳栿用六柱	shi jia chuan wu qian hou ge zha qian ru fu yong liu zhu	800
+厅堂等八架椽间缝内用梁柱侧样	ting tang deng ba jia chuan jian feng nei yong liang zhu ce yang	800
+八架椽屋分心用三柱	ba jia chuan wu fen xin yong san zhu	800
+八架椽屋乳栿对六椽栿用三柱	ba jia chuan wu ru fu dui liu chuan fu yong san zhu	800
+八架椽屋前后乳栿用四柱	ba jia chuan wu qian hou ru fu yong si zhu	800
+八架椽屋前后三椽栿用四柱	ba jia chuan wu qian hou san chuan fu yong si zhu	800
+八架椽屋分心乳栿用五柱	ba jia chuan wu fen xin ru fu yong wu zhu	800
+八架椽屋前后劄牵用六柱	ba jia chuan wu qian hou zha qian yong liu zhu	800
+厅堂等六架椽间缝内用梁柱侧样	ting tang deng liu jia chuan jian feng nei yong liang zhu ce yang	800
+六架椽屋分心用三柱	liu jia chuan wu fen xin yong san zhu	800
+六架椽屋乳栿对四椽栿用三柱	liu jia chuan wu ru fu dui si chuan fu yong san zhu	800
+六架椽屋前乳栿后劄牵用四柱	liu jia chuan wu qian ru fu hou zha qian yong si zhu	800
+厅堂等四架椽间缝内用梁柱侧样	ting tang deng si jia chuan jian feng nei yong liang zhu ce yang	800
+四架椽屋劄牵三椽栿用三柱	si jia chuan wu zha qian san chuan fu yong san zhu	800
+四架椽屋分心用三柱	si jia chuan wu fen xin yong san zhu	800
+四架椽屋通檐用二柱	si jia chuan wu tong yan yong er zhu	800
+四架椽屋分心劄牵用四柱	si jia chuan wu fen xin zha qian yong si zhu	800
+
+### 大木作梁架与柱额体系
+
+#### 屋顶
+四阿屋顶	si a wu ding	800
+四阿顶	si a ding	800
+五脊顶	wu ji ding	800
+厦两头造屋顶	xia liang tou zao wu ding	800
+厦两头造	xia liang tou zao	800
+九脊顶	jiu ji ding	800
+出际屋顶	chu ji wu ding	800
+出际	chu ji	800
+举折	ju zhe	800
+举屋之法	ju wu zhi fa	800
+折屋之法	zhe wu zhi fa	800
+斗尖亭榭屋顶起举	dou jian ting xie wu ding qi ju	800
+簇角梁之法	cu jiao liang zhi fa	800
+
+#### 梁架体系
+梁栿	liang fu	800
+檐栿	yan fu	800
+乳栿	ru fu	800
+丁栿	ding fu	800
+劄牵	zha qian	800
+平梁	ping liang	800
+厅堂梁栿	ting tang liang fu	800
+系头栿	xi tou fu	800
+梁栿断面	liang fu duan mian	800
+月梁	yue liang	800
+彻上明造	che shang ming zao	800
+平棊	ping qi	800
+平闇	ping an	800
+丁栿	ding fu	800
+驼峰	tuo feng	800
+蜀柱	shu zhu	800
+侏儒柱	zhu ru zhu	800
+叉手	cha shou	800
+合㭼	he ta	800
+托脚	tuo jiao	800
+
+#### 槫方体系
+槫	tuan	800
+普拍方	pu pai fang	800
+柱头方	zhu tou fang	800
+罗汉方	luo han fang	800
+橑檐方	liao yan fang	800
+算桯方	suan ting fang	800
+平棊方	ping qi fang	800
+橑风槫	liao feng tuan	800
+牛脊槫	niu ji tuan	800
+压槽方	ya cao fang	800
+承椽方	cheng chuan fang	800
+素方	su fang	800
+槫方	tuan fang	800
+下平槫	xia ping tuan	800
+中平槫	zhong ping tuan	800
+上平槫	shang ping tuan	800
+脊槫	ji tuan	800
+襻间	pan jian	800
+顺脊串	shun ji chuan	800
+
+#### 柱额体系
+柱	zhu	800
+生起	sheng qi	800
+梭柱	suo zhu	800
+檐柱	yan zhu	800
+副阶檐柱	fu jie yan zhu	800
+殿身檐柱	dian shen yan zhu	800
+屋内柱	wu nei zhu	800
+下檐柱	xia yan zhu	800
+平坐柱	ping zuo zhu	800
+永定柱	yong ding zhu	800
+楼阁柱	lou ge zhu	800
+上檐檐柱	shang yan yan zhu	800
+地栿	di fu	800
+腰串	yao chuan	800
+顺栿串	shun fu chuan	800
+顺脊串	shun ji chuan	800
+柱础	zhu chu	800
+櫍	zhi	800
+侧脚	ce jiao	800
+楼阁柱侧脚	lou ge zhu ce jiao	800
+侧脚墨	ce jiao mo	800
+额	e	800
+阑额	lan e	800
+檐额	yan e	800
+绰木方	chuo mu fang	800
+由额	you e	800
+立旌	li jing	800
+屋内额	wu nei e	800
+
+#### 转角梁栿
+抹角栿	mo jiao fu	800
+递角栿	di jiao fu	800
+阳马	yang ma	800
+角梁	jiao liang	800
+大角梁	da jiao liang	800
+子角梁	zi jiao liang	800
+隐角梁	yin jiao liang	800
+续角梁	xu jiao liang	800
+推山	tui shan	800
+隐衬角栿	yin chen jiao fu	800
+
+### 大木作斗栱体系
+
+#### 材分制度
+材	cai	800
+栔	zhi	800
+材栔	cai zhi	800
+单材	dan cai	800
+足材	zu cai	800
+
+#### 栱
+栱	gong	800
+华栱	hua gong	800
+杪栱	miao gong	800
+卷头	juan tou	800
+跳头	tiao tou	800
+杪	miao	800
+单杪	dan miao	800
+重杪	chong miao	800
+泥道栱	ni dao gong	800
+影栱	ying gong	800
+扶壁栱	fu bi gong	800
+瓜子栱	gua zi gong	800
+令栱	ling gong	800
+慢栱	man gong	800
+骑栿慢栱	qi fu man gong	800
+丁华抹额栱	ding hua mo e gong	800
+骑头栱	qi tou gong	800
+骑槽檐栱	qi cao yan gong	800
+丁头栱	ding tou gong	800
+虾须栱	xia xu gong	800
+栱头卷杀	gong tou juan sha	800
+栱口	gong kou	800
+子荫	zi yin	800
+栱眼	gong yan	800
+栱眼壁版	gong yan bi ban	800
+偷心	tou xin	800
+计心	ji xin	800
+单栱造	dan gong zao	800
+重栱造	chong gong zao	800
+
+#### 斗
+斗耳	dou er	800
+斗平	dou ping	800
+斗欹	dou yi	800
+欹䫜	yi kou	800
+栌斗	lu dou	800
+交互斗	jiao hu dou	800
+长开斗	chang kai dou	800
+交栿斗	jiao fu dou	800
+齐心斗	qi xin dou	800
+华心斗	hua xin dou	800
+平盘斗	ping pan dou	800
+散斗	san dou	800
+小斗	xiao dou	800
+顺桁斗	shun heng dou	800
+骑互斗	qi hu dou	800
+四耳斗	si er dou	800
+隔口包耳	ge kou bao er	800
+隐斗	yin dou	800
+连珠斗	lian zhu dou	800
+
+#### 飞昂
+下昂	xia ang	800
+琴面昂	qin mian ang	800
+批竹昂	pi zhu ang	800
+上昂	shang ang	800
+鞾楔	xue xie	800
+角昂	jiao ang	800
+由昂	you ang	800
+角神	jiao shen	800
+宝藏神	bao zang shen	800
+宝瓶	bao ping	800
+昂身	ang shen	800
+昂栓	ang shuan	800
+昂背	ang bei	800
+插昂	cha ang	800
+挣昂	zheng ang	800
+矮昂	ai ang	800
+
+#### 铺作
+总铺作次序	zong pu zuo ci xu	800
+柱头铺作	zhu tou pu zuo	800
+补间铺作	bu jian pu zuo	800
+转角铺作	zhuan jiao pu zuo	800
+单补间	dan bu jian	800
+双补间	shuang bu jian	800
+副阶	fu jie	800
+缠腰	chan yao	800
+平坐	ping zuo	800
+把头绞项造	ba tou jiao xiang zao	800
+斗口跳	dou kou tiao	800
+四铺作	si pu zuo	800
+五铺作	wu pu zuo	800
+六铺作	liu pu zuo	800
+七铺作	qi pu zuo	800
+八铺作	ba pu zuo	800
+爵头	jue tou	800
+耍头	shua tou	800
+衬方头	chen fang tou	800
+压跳	ya tiao	800
+㭼头	ta tou	800
+替木	ti mu	800
+柎	fu	800
+
+列栱之制	lie gong zhi zhi	800
+出跳相列	chu tiao xiang lie	800
+鸳鸯交手栱	yuan yang jiao shou gong	800
+连栱交隐	lian gong jiao yin	800
+小栱头	xiao gong tou	800
+切几头	qie ji tou	800
+华头子	hua tou zi	800
+
+## 屋顶
+
+### 屋盖
+正脊	zheng ji	800
+垂脊	chui ji	800
+角脊	jiao ji	800
+曲脊	qu ji	800
+出际	chu ji	800
+推山	tui shan	800
+收山	shou shan	800
+椽子	chuan zi	800
+望板	wang ban	800
+厦瓦版	xia wa ban	800
+白版	bai ban	800
+压厦版	ya xia ban	800
+步架	bu jia	800
+椽架	chuan jia	800
+檐	yan	800
+大连檐	da lian yan	800
+小连檐	xiao lian yan	800
+燕颔版	yan han ban	800
+狼牙版	lang ya ban	800
+飞子	fei zi	800
+交斜解造	jiao xie jie zao	800
+结角解开	jie jiao jie kai	800
+搏风版	bo feng ban	800
+垂鱼	chui yu	800
+惹草	re cao	800
+
+### 室内天花
+彻上明造	che shang ming zao	800
+挑斡	tiao wo	800
+驼峰	tuo feng	800
+平棊	ping qi	800
+平闇	ping an	800
+平棊方	ping qi fang	800
+平闇椽	ping an chuan	800
+峻脚椽	jun jiao chuan	800
+遮椽版	zhe chuan ban	800
+藻井	zao jing	800
+斗八藻井	dou ba zao jing	800
+小斗八藻井	xiao dou ba zao jing	800
+
+### 平坐
+永定柱	yong ding zhu	800
+搭头木	da tou mu	800
+普拍方	pu pai fang	800
+造平坐之制	zao ping zuo zhi zhi	800
+叉柱造	cha zhu zao	800
+缠柱造	chan zhu zao	800
+柱脚方	zhu jiao fang	800
+柱脚卯	zhu jiao mao	800
+平坐内做法	ping zuo nei zuo fa	800
+出头木	chu tou mu	800
+
+### 瓦作制度
+结𥥟	jie wa	100
+用瓦	yong wa	800
+垒屋脊	lei wu ji	800
+用鸱尾	yong chi wei	800
+用兽头等	yong shou tou deng	800
+
+### 窑作制度
+瓦	wa	800
+砖	zhuan	800
+琉璃瓦	liu li wa	800
+炒造黄丹附	chao zao huang dan fu	800
+青掍瓦	qing hun wa	800
+滑石掍	hua shi hun	800
+荼土掍	tu tu hun	800
+烧变次序	shao bian ci xu	800
+垒造窑	lei zao yao	800
+
+## 装修
+
+### 小木作制度一
+版门	ban men	800
+双扇版门	shuang shan ban men	800
+独扇版门	du shan ban men	800
+乌头门	wu tou men	800
+软门	ruan men	800
+牙头护缝软门	ya tou hu feng ruan men	800
+合版软门	he ban ruan men	800
+破子棂窗	po zi ling chuang	800
+睒电窗	shan dian chuang	800
+版棂窗	ban ling chuang	800
+截间版帐	jie jian ban zhang	800
+照壁屏风骨	zhao bi ping feng gu	800
+截间屏风骨	jie jian ping feng gu	800
+四扇屏风骨	si shan ping feng gu	800
+隔截横钤立旌	ge jie heng qian li jing	800
+露篱	lu li	800
+版引檐	ban yin yan	800
+水槽	shui cao	800
+地棚	di peng	800
+井屋子	jing wu zi	800
+
+### 小木作制度二
+格子门	ge zi men	800
+四斜毬文格子	si xie qiu wen ge zi	800
+四斜毬文上出条桱重格眼	si xie qiu wen shang chu tiao jing chong ge yan	800
+四直方格眼	si zhi fang ge yan	800
+版壁	ban bi	800
+两明格子	liang ming ge zi	800
+阑槛钩窗	lan kan gou chuang	800
+殿内截间格子	dian nei jie jian ge zi	800
+殿阁照壁版	dian ge zhao bi ban	800
+障日版	zhang ri ban	800
+廊屋照壁版	lang wu zhao bi ban	800
+胡梯	hu ti	800
+垂鱼	chui yu	800
+惹草	re cao	800
+栱眼壁版	gong yan bi ban	800
+裹栿版	guo fu ban	800
+擗簾竿	pi lian gan	800
+护殿阁檐竹网木贴	hu dian ge yan zhu wang mu tie	800
+
+### 小木作制度三
+平棊	ping qi	800
+平闇	ping an	800
+斗八藻井	dou ba zao jing	800
+小斗八藻井	xiao dou ba zao jing	800
+拒马叉子	ju ma cha zi	800
+叉子	cha zi	800
+钩阑	gou lan	800
+重台钩阑	chong tai gou lan	800
+单钩阑	dan gou lan	800
+棵笼子	ke long zi	800
+井亭子	jing ting zi	800
+牌	pai	800
+
+### 小木作制度四
+佛道帐	fo dao zhang	800
+龟脚	gui jiao	800
+帐身	zhang shen	800
+天宫楼阁	tian gong lou ge	800
+山华蕉叶造	shan hua jiao ye zao	800
+佛道帐芙蓉瓣	fo dao zhang fu rong ban	800
+
+### 小木作制度五
+牙脚帐	ya jiao zhang	800
+九脊小帐	jiu ji xiao zhang	800
+壁帐	bi zhang	800
+
+### 小木作制度六
+转轮经藏	zhuan lun jing zang	800
+壁藏	bi zang	800
+
+## 彩画
+
+### 五彩遍装
+五彩遍装	wu cai bian zhuang	800
+华文九品	hua wen jiu pin	800
+琐文六品	suo wen liu pin	800
+华文	hua wen	800
+琐文	suo wen	800
+飞仙	fei xian	800
+飞禽	fei qin	800
+走兽	zou shou	800
+云文	yun wen	800
+五彩遍装之制	wu cai bian zhuang zhi zhi	800
+
+### 碾玉装
+碾玉装	nian yu zhuang	800
+
+### 青绿叠晕棱间装
+青绿叠晕棱间装	qing lv die yun leng jian zhuang	800
+
+### 解绿装饰屋舍
+解绿装饰屋舍	jie lv zhuang shi wu she	800
+解绿结华装附	jie lv jie hua zhuang fu	800
+
+### 丹粉刷饰及黄土刷饰
+丹粉刷饰	dan fen shua shi	800
+黄土刷饰	huang tu shua shi	800
+
+### 杂间装
+杂间装	zhuang jian zhuang	800
